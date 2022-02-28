@@ -1,0 +1,5 @@
+There are two doors in front of you. One blue on red.
+
+Do you walk through the blue door?
+
+Do you walk through the red dorr?
